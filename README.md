@@ -14,7 +14,6 @@
 * TripComputer.java: Product feature 4
 * Director.java: Director controls builders
 * Demo.java: Client code
-```
 
 ## Output :
 ```
