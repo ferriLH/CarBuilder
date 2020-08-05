@@ -1,7 +1,8 @@
 # CarBuilder
-BuilderPattern
+## BuilderPattern
 
-Java Class :
+## Java Class :
+```
 Builder.java: Common builder interface
 CarBuilder.java: Builder of car
 CarManualBuilder.java: Builder of a car manual
@@ -14,8 +15,10 @@ Transmission.java: Product feature 3
 TripComputer.java: Product feature 4
 Director.java: Director controls builders
 Demo.java: Client code
+```
 
-Output :
+## Output :
+```
 Car built:
 SPORTS_CAR
 
@@ -26,3 +29,4 @@ Engine: volume - 3.0; mileage - 0.0
 Transmission: SEMI_AUTOMATIC
 Trip Computer: Functional
 GPS Navigator: Functional
+```
