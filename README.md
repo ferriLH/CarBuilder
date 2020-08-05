@@ -2,19 +2,18 @@
 ## BuilderPattern
 
 ## Java Class :
-```
-Builder.java: Common builder interface
-CarBuilder.java: Builder of car
-CarManualBuilder.java: Builder of a car manual
-Car.java: Car product
-Manual.java: Manual product
-Type.java
-Engine.java: Product feature 1
-GPSNavigator.java: Product feature 2
-Transmission.java: Product feature 3
-TripComputer.java: Product feature 4
-Director.java: Director controls builders
-Demo.java: Client code
+* Builder.java: Common builder interface
+* CarBuilder.java: Builder of car
+* CarManualBuilder.java: Builder of a car manual
+* Car.java: Car product
+* Manual.java: Manual product
+* Type.java
+* Engine.java: Product feature 1
+* GPSNavigator.java: Product feature 2
+* Transmission.java: Product feature 3
+* TripComputer.java: Product feature 4
+* Director.java: Director controls builders
+* Demo.java: Client code
 ```
 
 ## Output :
